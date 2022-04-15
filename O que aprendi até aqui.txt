@@ -1,0 +1,7 @@
+ - Pensamento computacional
+ - Lógica de programação
+ - Git e GitHub
+ - SCRUM
+
+  Links https://git-scm.com/downloads
+        https://github.com/
