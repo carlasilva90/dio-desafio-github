@@ -2,6 +2,11 @@
  - Lógica de programação
  - Git e GitHub
  - SCRUM
-
   Links https://git-scm.com/downloads
         https://github.com/
+
+ - Bootstrap (criando página usando bootstrap)
+   Link https://carlasilva90.github.io/aula_bootstrap/
+
+ - Recriando site Netflix
+   Link https://carlasilva90.github.io/Recriando-interface-Netflix/
